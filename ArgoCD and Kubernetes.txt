@@ -1,0 +1,6 @@
+ArgoCD and Kubernetes
+
+
+user interacts with argocd web ui and cli, also github repo. Argoo cd webui deploys k8s clusters. U can use argocd cli to deploy additional k8s clusters
+
+ArgoCD has app coontroller, repo server, redis, dex server,
